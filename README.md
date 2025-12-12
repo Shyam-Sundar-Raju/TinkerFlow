@@ -3,8 +3,6 @@
 TinkerFlow is a **Visual AI Programming Tutor** designed for rural and village learners. 
 It provides an **offline-first**, gamified, and localized learning experience for programming fundamentals using AI assistance.
 
----
-
 ## Features
 
 - **Visual Programming**: Block-based & flow-based coding interface for beginners.  
@@ -14,8 +12,6 @@ It provides an **offline-first**, gamified, and localized learning experience fo
 - **AI Tutor**: Integrated LLM assistant for guidance and doubt solving.  
 - **Progress Tracker**: Tracks learning streaks and skill progression.  
 
----
-
 ## Tech Stack
 
 - **Frontend**: React / Svelte  
@@ -24,13 +20,9 @@ It provides an **offline-first**, gamified, and localized learning experience fo
 - **AI Models**: Ollama / Local LLM + Gemini for assistance  
 - **Other Tools**: Docker, GitHub Actions, Figma for design  
 
----
-
 ## Pipeline
 
 ![TinkerFlow Pipeline](TinkerFlowPipeline.jpg)
-
----
 
 ## Project Structure
 
@@ -43,8 +35,6 @@ TinkerFlow/
 │── docs/             # Documentation
 │── README.md         # This file
 ```
-
----
 
 ## Setup & Installation
 
@@ -64,8 +54,6 @@ npm install
 npm run dev
 ```
 
----
-
 ## Future Roadmap
 
 - Offline sync with P2P support  
@@ -73,4 +61,11 @@ npm run dev
 - Integration with rural school systems  
 - AI-driven personalized lesson plans  
 
----
+## Contributors
+
+* [@Shyam Sundar Raju](https://github.com/Shyam-Sundar-Raju)
+* [@Dwarakesh V](https://github.com/Dwarakesh-V)
+* [@Pooja Shree S](https://github.com/Pooja29Shree)
+* [@Santhosh A S](https://github.com/Santhosh292K)
+* [@Arjun Krishnakumar]
+* [@Chandana Muppidi]
